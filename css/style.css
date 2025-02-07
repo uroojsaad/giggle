@@ -372,6 +372,10 @@ body.opened .beker_tm_topbar {
 .beker_tm_topbar .logo img {
   max-width: 100px;
   max-height: 70px;
+  transform: scale(1.5);
+}
+.logo a {
+  background-color: lightblue;
 }
 .beker_tm_topbar ul {
   margin: 0px;
